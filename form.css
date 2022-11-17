@@ -1,0 +1,49 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+.a{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#Full-Name{
+    margin-right: 30px;
+}
+.ab{
+    padding-left: 240px;
+    margin-bottom: 20px;
+}
+.ABCD{
+    margin-top: 40px;
+}
+#email{
+    margin-left: 125px;
+}
+#Full-Name{
+    margin-left: 90px;
+}
+#Pasword{
+    margin-left: 100px;
+}
+#Date-of{
+    margin-left: 80px;
+}
+#Pasword1{
+    margin-left: 40px;
+}
+.submit1{
+    margin-top: 50px;
+    margin-left: 160px;
+}
+.submit2{
+    margin-left: 40px;
+}
+body{
+    background-color:  green;
+}
